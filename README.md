@@ -1,5 +1,5 @@
-## Hi there 👋
-https://www.holopin.io/@hetukariya#badges
+## Hi there My name is Hetu Kariya👋
+[![An image of @hetukariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hetukariya)](https://holopin.io/@hetukariya)
 <!--
 **HetuKariya/HetuKariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
