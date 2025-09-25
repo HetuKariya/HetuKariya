@@ -3,12 +3,12 @@
 ---
 <h1 align="center">Hi there My name is Hetu Kariya👋</h1>
 <h1 align="center">✨ A 19 Year Old Passionate Software Engineer</h1>
-### 💫 About Me:
+<h3>💫 About Me:</h3>
 - ✅ I have successfully completed Hacktoberfest-2024 and GSSoCextd-2024 with a rank of 381
-- 🧪 I'm currently working on **Spring Boot Projects**
-- 🌱 I'm currently learning **Generative AI** and **Spring Boot**
+- 🧪 I'm currently working on <h4>Spring Boot Projects</h4>
+- 🌱 I'm currently learning <h4>Generative AI</h4> and <h4>Spring Boot</h4>
 - 📂 All of my projects are available at my GitHub Profile
-- 💬 Ask me about **Web DEV, Python, LLMs, Gen-AI, Java, Spring Boot**
+- 💬 Ask me about <h4>Web DEV, Python, LLMs, Gen-AI, Java, Spring Boot</h4>
 - ⚡ Fun-Fact: I am a Competitive Programmer Also!
   -  @Codeforces(`1142`) @LeetCode (`1632`) · 2 ⭐ @CodeChef
 
