@@ -70,3 +70,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=HetuKariya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HetuKariya&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HetuKariya&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HetuKariya&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
