@@ -1,9 +1,8 @@
-## Hi there My name is Hetu Kariya👋
-✨ A 19 Year Old Passionate Software Engineer
 [![An image of @hetukariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hetukariya)](https://holopin.io/@hetukariya)
 
 ---
-
+## Hi there My name is Hetu Kariya👋
+✨ A 19 Year Old Passionate Software Engineer
 ### 💫 About Me:
 - ✅ I have successfully completed Hacktoberfest-2024 and GSSoCextd-2024 with a rank of 381
 - 🧪 I'm currently working on **Spring Boot Projects**
