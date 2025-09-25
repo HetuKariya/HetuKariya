@@ -1,8 +1,8 @@
 [![An image of @hetukariya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hetukariya)](https://holopin.io/@hetukariya)
 
 ---
-## Hi there My name is Hetu Kariya👋
-✨ A 19 Year Old Passionate Software Engineer
+<h1 align="center">Hi there My name is Hetu Kariya👋</h1>
+<h1 align="center">✨ A 19 Year Old Passionate Software Engineer</h1>
 ### 💫 About Me:
 - ✅ I have successfully completed Hacktoberfest-2024 and GSSoCextd-2024 with a rank of 381
 - 🧪 I'm currently working on **Spring Boot Projects**
@@ -65,3 +65,8 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](#) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](#) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)](#) [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge\&logo=heroku\&logoColor=white)](#) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)](#) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)](#)
 
 ---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=say-het&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=say-het&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=say-het&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
