@@ -10,7 +10,7 @@
 - 📂 All of my projects are available at my GitHub Profile<br>
 - 💬 Ask me about <b>Web DEV, Python, LLMs, Gen-AI, Java, Spring Boot</b><br>
 - ⚡ Fun-Fact: I am a Competitive Programmer Also!<br>
-  -  @Codeforces(`1142`) @LeetCode (`1632`) · 2 ⭐ @CodeChef
+  -  @Codeforces(`1148`) @LeetCode (`1632`) · 2 ⭐ @CodeChef
 
 ---
 
